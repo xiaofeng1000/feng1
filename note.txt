@@ -39,4 +39,9 @@ javascript知识{
 	打开新页面：wx.navigateTo({url:'路径'}) //子页面跳转 只能5层   会触发Hide生命周期隐藏函数
 	打开新页面：wx.redirectTo({url:'路径'}) //同级页面跳转         会触发onUnload生命周期卸载函数
 ｝
-css3 代码兼容网址autoprefixer.github.io
+git 操作命令{
+	pull 下拉
+	push 上传
+	remote add origin "地址"  // 关联远程仓库
+	remote remove origin //删除关联
+}
